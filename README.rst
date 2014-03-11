@@ -30,4 +30,6 @@ use `mrec` in your research.
 
 References
 ----------
-.. [1] Mark Levy, Kris Jack (2013) Efficient Top-N Recommendation by Linear Regression. In Large Scale Recommender Systems Workshop in RecSys'13.
+.. [1] Mark Levy, Kris Jack (2013) Efficient Top-N Recommendation by Linear Regression. 
+In Large Scale Recommender Systems Workshop in RecSys'13.
+.. [2] Another Reference...
